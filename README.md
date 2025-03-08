@@ -1,7 +1,6 @@
 # SW-CPU-Rockchip-OV5647-04
 
-
-Here is camera setup for Radxa CM5 Module. 
+Here is camera OV5647 setup for Radxa CM5 Module. 
 
 Pictures in repo taken by cameras, download to check quality.
 
