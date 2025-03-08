@@ -10,7 +10,7 @@ Pictures in repo taken by cameras, download to check quality.
 
 (PI camera 65 Degree)
 
-<img width="479" alt="pi 90" src="https://github.com/user-attachments/assets/fac3f1f1-9616-4a77-8296-d54bd5af37ca" />
+<img width="679" alt="pi 90 degree" src="https://github.com/user-attachments/assets/ae1840c9-c797-4600-aa84-7d5b7500cf01" />
 
 (PI camera 90 Degree)
 
@@ -20,7 +20,7 @@ Pictures in repo taken by cameras, download to check quality.
 
 (PI camera 65 Degree)
 
-<img width="679" alt="pi 90 degree" src="https://github.com/user-attachments/assets/ae1840c9-c797-4600-aa84-7d5b7500cf01" />
+<img width="479" alt="pi 90" src="https://github.com/user-attachments/assets/fac3f1f1-9616-4a77-8296-d54bd5af37ca" />
 
 (PI camera 90 Degree)
 
